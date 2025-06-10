@@ -4,15 +4,15 @@ Submitted by: **Henry Chen**
 
 **Wordle App** is an app that ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App displays a keyboard on the screen
-- [ ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [ ] User can play a basic version of Wordle, with different goal words each time
+- [x ] App displays a keyboard on the screen
+- [x ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [x ] User can play a basic version of Wordle, with different goal words each time
 
 The following **optional** features are implemented:
 
@@ -24,6 +24,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+https://www.loom.com/share/eaf3976c8e6d47929b7c39e69f444045?sid=45f17983-6a82-44a6-8a1d-f15d8462c543
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
